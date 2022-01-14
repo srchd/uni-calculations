@@ -1,8 +1,0 @@
-A == 6 == félév alatt:
-
-	 == 53 == tárgyat próbáltál meg elvégezni,
-	 == 182 == kreditet vettél fel összesen,
-	 amibõl == 182 == kreditet sikerült is elvégezni.
-
-Így az összesített korrigált kreditindexed: == 3.7555555555555555 ==
-Valamint az esetlegesen megajánlott záróvizsga jegyed: == 4 ==
