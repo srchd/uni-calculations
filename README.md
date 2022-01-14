@@ -7,6 +7,7 @@
 - Ha hibát tapasztalsz, kérdésed, vagy feature ajánlásod lenne, nyiss [itt](https://github.com/srchd/uni-calculations/issues) egy ticketet (*New Issue, jobb felül zöld gomb*) a megfelelő *Labelt* rárakva gyorsabban fog menni a reagálásom (*jobb oldalt mikor létrehozol egy issuet, ott lehet Labeleket kiválasztani az issuehoz*)
 - Esetlegesen félreszámolt számításokért nem vállalok felelősséget ofc
 - Python 3+ fog kelleni, ahhoz hogy futtasd, töltsd le ha nincs fent c:
+- Ha esetleg hibát írni futáskor a CMD, valami olyasmit, hogy *py is not recognized as command*, **DE** van python a gépeden akkor próbáld meg, hogy a **run.bat** fájlban a *py* parancsot átírod *python*, vagy *python3*-ra
 ## Hogyan használd:
 1. Klónozd le a repót
 2. A config mappában lévő base.json fájlt írd át a **TE** eredményeidnek megfelelően
