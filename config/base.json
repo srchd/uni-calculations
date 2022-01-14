@@ -1,0 +1,36 @@
+{
+    "semesters" :
+    {
+        "1-semester-subejcts" :
+        [
+            {
+                "name" : "SubejctNameOne",
+                "credits" : 1,
+                "grade" : 5
+            },
+            {
+                "name" : "SubejctNameTwo",
+                "credits" : 5,
+                "grade" : 5
+            },
+            {
+                "name" : "SubejctNameThree",
+                "credits" : 6,
+                "grade" : 5
+            }
+        ],
+        "2-semester-subjects" :
+        [
+            {
+                "name" : "SubejctNameOne",
+                "credits" : 3,
+                "grade" : 4
+            },
+            {
+                "name" : "SubjectNameTwo",
+                "credits" : 2,
+                "grade" : 3
+            }
+        ]
+    }
+}

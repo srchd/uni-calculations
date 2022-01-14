@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Self related private stuff
+result.txt
+config/uni.json
