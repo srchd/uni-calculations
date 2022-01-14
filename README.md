@@ -11,3 +11,4 @@
 1. Klónozd le a repót
 2. A config mappában lévő base.json fájlt írd át a **TE** eredményeidnek megfelelően
 3. Futtasd a **run.bat** fájlt
+4. Miután lefutott (nagyon gyors lesz) az 'ENTER' gomb megnyomásával ki tudod exportálni a fontosabb adatokat a *result.txt* fájlba
